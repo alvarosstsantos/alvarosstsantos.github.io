@@ -5,6 +5,7 @@ entries:
         url: https://github.com/alvarosstsantos
       - title: "<a href='mailto:alvarosstsantos@gmail.com'>email</a>"
       - title: "no trabalho: <a href='https://www.linkedin.com/in/alvarosstsantos/'>linkedin</a>, <a href='#'>cv</a>"
+      - title: "<a href='https://twitter.com/alvarosstsantos'>twitter</a> (só quando op acabar)"
   - title: artigos
     post_list:
       limit: 10
