@@ -31,7 +31,7 @@ twitter_username: alvarosstsantos
 github_username:  alvarosstsantos
 
 # Build settings
-remote_theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 
 theme_config:
