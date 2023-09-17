@@ -1,0 +1,13 @@
+entries:
+  - title: eu
+    entries:
+      - title: github
+        url: https://github.com/alvarosstsantos
+      - title: "<a href='mailto:alvarosstsantos@gmail.com'>email</a>"
+      - title: "no trabalho: <a href='https://www.linkedin.com/in/alvarosstsantos/'>linkedin</a>, <a href='#'>cv</a>"
+  - title: artigos
+    post_list:
+      limit: 10
+      show_more: true
+      show_more_text: posts mais antigos...
+      show_more_url: archive.html
