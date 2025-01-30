@@ -7,19 +7,18 @@ description: >-
 baseurl: ""
 url: "https://alvarosstsantos.com"
 twitter_username: alvarosstsantos
-github_username:  alvarosstsantos
+github_username: alvarosstsantos
 
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "light"
+  appearance: "dark"
   back_home_text: ".."
-  date_format: "%d-%m-%Y"
+  date_format: "%d %b %Y"
   show_description: false
 
 sass:
-  style: :compressed
-
+  style: "compressed"
 # exclude:
 #   - .sass-cache/
 #   - .jekyll-cache/
