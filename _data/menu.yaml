@@ -1,14 +1,14 @@
 entries:
-  - title: me
+  - title: eu
     entries:
       - title: github
         url: https://github.com/alvarosstsantos
       - title: "<a href='mailto:alvarosstsantos@gmail.com'>email</a>"
-      - title: "at work: <a href='https://www.linkedin.com/in/alvarosstsantos/'>linkedin</a>"
-      - title: "in the streets: <a href='https://www.strava.com/athletes/alvarosstsantos'>strava</a>"
-  - title: articles
+      - title: "no trabalho: <a href='https://www.linkedin.com/in/alvarosstsantos/'>linkedin</a>"
+      - title: "nas ruas: <a href='https://www.strava.com/athletes/alvarosstsantos'>strava</a>"
+  - title: artigos
     post_list:
       limit: 10
       show_more: true
-      show_more_text: older posts...
+      show_more_text: posts antigos...
       show_more_url: archive.html

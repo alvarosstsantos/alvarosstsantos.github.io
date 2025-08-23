@@ -1,16 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wdth,wght@87.5,300&family=Noto+Sans:ital@0;1&display=swap');
 
-img.invert {
-  filter: invert(1);
-}
-
 html,
 body {
-  background-color: Canvas;
-  color: CanvasText;
-  color-scheme: dark;
+  background: white;
+  color-scheme: light;
 }
-
 
 html {
   height: 100%;
@@ -18,12 +12,15 @@ html {
 }
 
 body {
+  color: black;
   font-family: "Noto Sans", serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
   font-variation-settings: "wdth" 100;
-  font-size: 16px;
+  font-size: 19px;
+  line-height: 1.6;
+  letter-spacing: 0.02em;
   margin: 0;
   min-height: 100%;
   overflow-wrap: break-word;
@@ -31,6 +28,12 @@ body {
 
 .post-meta {
   text-align: right;
+  overflow: hidden;
+}
+
+hr {
+  text-align: center;
+  border: 0;
 }
 
 h2,
@@ -47,10 +50,17 @@ hr {
 
 p {
   margin: 1rem 0;
+  line-height: 1.7;
+  letter-spacing: 0.01em;
 }
 
 li {
   margin: 0.4rem 0;
+  line-height: 1.6;
+}
+
+*:target {
+  background: yellow;
 }
 
 .w {
@@ -59,9 +69,16 @@ li {
   padding: 4rem 2rem;
 }
 
-hr {
-  text-align: center;
-  border: 0;
+.w > a {
+  float: left;
+  line-height: 1.5;
+  margin-top: 16px;
+}
+
+.post-meta {
+  text-align: right;
+  overflow: hidden;
+  line-height: 1.5;
 }
 
 hr:before {
@@ -82,12 +99,15 @@ code {
   font-weight: 300;
   font-style: normal;
   font-variation-settings: "wdth" 87.5;
+  letter-spacing: 0.015em;
+  color: white;
+  background: black;
 }
 
 table,
 th,
 td {
-  border: thin solid white;
+  border: thin solid black;
   border-collapse: collapse;
   padding: 0.4rem;
 }
@@ -101,7 +121,7 @@ div.highlighter-rouge code {
 
 blockquote {
   font-style: italic;
-  border: thin solid white;
+  border: thin solid black;
   padding: 1rem;
 }
 

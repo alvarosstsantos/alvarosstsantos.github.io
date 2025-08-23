@@ -12,10 +12,11 @@ github_username: alvarosstsantos
 remote_theme: riggraz/no-style-please
 
 theme_config:
-  appearance: "dark"
+  appearance: "light"
   back_home_text: ".."
-  date_format: "%d %b %Y"
+  date_format: "%d-%m-%Y"
   show_description: false
+  lowercase_titles: true
 
 sass:
   style: "compressed"
