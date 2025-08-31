@@ -2,7 +2,7 @@
 layout: post
 title: "Os 100 'melhores' álbuns da história"
 date: 2025-08-30 10∶12∶00 -0300
-categories: devaneios
+categories: reviews
 ---
 
 Estou fazendo um re-review da lista dos [100 melhores álbuns da história](https://100best.music.apple.com/us), de acordo com a Apple Music. Para animar mais ainda uma das minhas metas definidas no [plano para mudar de vida em 127 dias](/devaneios/2025/08/25/mudando-vida-127-dias.html), estou ouvindo um álbum da lista por dia enquanto me exercito. A partir da data deste post, vou deixar a minha impressão sobre cada um em um parágrafo abaixo.
