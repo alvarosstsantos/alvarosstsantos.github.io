@@ -23,16 +23,16 @@ Quero aproveitar toda a empolgação da minha descoberta como combustível para 
 
 O primeiro item não vai ter relação direta com a ideia de parar de consumir conteúdo, isto deve ser uma consequência do uso do meu tempo para tentar atingir algo mais concreto, grande o suficiente para tomar toda minha energia, mas que ainda é apenas parte de um sonho muito maior:
 
-> Conseguir um emprego que permita eu me mudar do país ou trabalhar 100% remoto.
+> Conseguir um emprego que permita eu me mudar do país.
 
-Para conquistar esse objetivo, eu precisarei aprimorar minhas habilidades técnicas (ou ao menos conseguir comprová-las), aprender uma nova língua (já que o destino do meu sonho é a França) e melhorar a minha saúde (afinal o meu corpo deve suportar todo esse esforço sem quebrar até lá). Dessa forma, o próximo item será composto de seis metas:
+Para conquistar esse objetivo, eu precisarei aprimorar minhas habilidades técnicas (ou ao menos conseguir comprová-las), aprender uma nova língua (já que o destino do meu sonho atualmente é a França) e melhorar a minha saúde (afinal o meu corpo deve suportar todo esse esforço sem quebrar até lá). Dessa forma, o próximo item será composto de seis metas:
 
 - terminar pós-graduação em Engenharia de _Machine Learning_
 - tirar certificação Java OCP 21 1Z0-830
 - resolver todas as 225 questões catalogadas em _NeetCode_
 - completar 200 dias ativos no _Gym Rats_
 - voltar para os limites do IMC emagrecendo 12kg
-- terminar curso de francês nos níveis A1 e A2
+- terminar curso de francês no nível A1
 
 Por último, o prazo para executar tudo isso, deve ser um belíssimo número redondo, 127 dias, contando do momento em que digito este texto até a virada do ano. É pouco tempo, mas, tempo o suficiente para cumprir as metas antes de me esgotar completamente.
 
