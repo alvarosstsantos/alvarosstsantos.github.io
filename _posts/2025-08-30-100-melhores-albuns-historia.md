@@ -24,3 +24,12 @@ Estou fazendo um re-review da lista dos [100 melhores álbuns da história](http
 As letras dramáticas, embaladas pela guitarra primorosa de Joe Walsh e pelo vocal agudo de Don Henley, traduzem a dicotomia da vida de um _rockstar_ nos anos 70. O disco intercala faixas agitadas, que evocam sucesso, poder e conflito, com canções lentas, repletas de derrota amorosa, depressão e mais conflito. O saldo final culmina num épico que traz o paradoxo da vida em estrelato apresentado para o próprio _american dream_, fechando esta excelente obra no mesmo tom desesperançoso com que ela se inicia.
 
 **Destaques**: Hotel California, Victm of Love, The Last Resort.
+
+---
+{: data-content=" 98 "}
+
+### ASTROWORLD, Travis Scott (2018) - ●●●●●●○○○○
+
+O álbum funciona como uma galeria onde seu curador, Travis Scott, expõe várias ideias no melhor estilo Kanye West. Com músicas repletas de participações especiais, o _rapper_ também abusa de distorções, _delays_, sintetizadores, sobreposição de vozes e outros efeitos para experimentar, atingindo uma estética psicodélica que remete à obra de Kid Cudi. Embora muito bem produzido, o produto final se arrasta, mostrando que suas ideias, mesmo as mais ousadas, nem sempre são tão boas.
+
+**Destaques**: STOP TRYING TO BE GOD, ASTROTHUNDER.
