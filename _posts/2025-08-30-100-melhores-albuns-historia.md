@@ -33,3 +33,12 @@ As letras dramáticas, embaladas pela guitarra primorosa de Joe Walsh e pelo voc
 O álbum funciona como uma galeria onde seu curador, Travis Scott, expõe várias ideias no melhor estilo Kanye West. Com músicas repletas de participações especiais, o _rapper_ também abusa de distorções, _delays_, sintetizadores, sobreposição de vozes e outros efeitos para experimentar, atingindo uma estética psicodélica que remete à obra de Kid Cudi. Embora muito bem produzido, o produto final se arrasta, mostrando que suas ideias, mesmo as mais ousadas, nem sempre são tão boas.
 
 **Destaques**: STOP TRYING TO BE GOD, ASTROTHUNDER.
+
+---
+{: data-content=" 97 "}
+
+### Rage Against The Machine, Rage Against The Machine (1992) - ●●●●●●●●○○
+
+A escolha de um título homônimo foi perfeita. A repetição, que muitas vezes denuncia falta de criatividade, aqui funciona como um recurso que transforma os refrões em gritos de protesto. Com um vocal cru e agressivo, Zack de la Rocha, acompanhado dos *riffs* percursivos de Tom Morello, denuncia de forma direta as injustiças políticas e sociais do capitalismo americano. Ao ouvir qualquer uma das músicas do álbum o interlocutor se sentirá tomado por uma sanha revolucionária, disposto a incendiar carros e pegar em armas para luta inadiável contra o sistema. Uma obra de dar raiva.
+
+**Destaques**: Killing In The Name, Freedom.
