@@ -39,6 +39,6 @@ O álbum funciona como uma galeria onde seu curador, Travis Scott, expõe vária
 
 ### Rage Against The Machine, Rage Against The Machine (1992) - ●●●●●●●●○○
 
-A escolha de um título homônimo foi perfeita. A repetição, que muitas vezes denuncia falta de criatividade, aqui funciona como um recurso que transforma os refrões em gritos de protesto. Com um vocal cru e agressivo, Zack de la Rocha, acompanhado dos *riffs* percursivos de Tom Morello, denuncia de forma direta as injustiças políticas e sociais do capitalismo americano. Ao ouvir qualquer uma das músicas do álbum o interlocutor se sentirá tomado por uma sanha revolucionária, disposto a incendiar carros e pegar em armas para luta inadiável contra o sistema. Uma obra de dar raiva.
+A escolha de um título homônimo foi perfeita. A repetição, que muitas vezes denuncia falta de criatividade, aqui funciona como um recurso que transforma os refrões em gritos de protesto. Com um vocal cru e agressivo, Zack de la Rocha, acompanhado dos *riffs* percursivos de Tom Morello, denuncia de forma direta as injustiças políticas e sociais do capitalismo americano. Ao escutar qualquer uma das músicas do álbum o ouvinte se sentirá tomado por uma sanha revolucionária, disposto a incendiar carros e pegar em armas para luta inadiável contra o sistema. Uma obra de dar raiva.
 
 **Destaques**: Killing In The Name, Freedom.
