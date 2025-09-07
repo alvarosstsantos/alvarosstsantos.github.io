@@ -42,3 +42,12 @@ O álbum funciona como uma galeria onde seu curador, Travis Scott, expõe vária
 A escolha de um título homônimo foi perfeita. A repetição, que muitas vezes denuncia falta de criatividade, aqui funciona como um recurso que transforma os refrões em gritos de protesto. Com um vocal cru e agressivo, Zack de la Rocha, acompanhado dos *riffs* percursivos de Tom Morello, denuncia de forma direta as injustiças políticas e sociais do capitalismo americano. Ao escutar qualquer uma das músicas do álbum o ouvinte se sentirá tomado por uma sanha revolucionária, disposto a incendiar carros e pegar em armas para luta inadiável contra o sistema. Uma obra de dar raiva.
 
 **Destaques**: Killing In The Name, Freedom.
+
+---
+{: data-content=" 96 "}
+
+### Pure Heroine, Lorde (2013) - ●●●●●●●○○○
+
+Lorde caminhou para que Billie Eilish e Olivia Rodrigo pudessem correr. Com seu primeiro álbum, a cantora neozelandesa abalou o mercado *teen pop*, dominado por produções higienizadas e excessivamente positivas. Suas letras trouxeram os questionamentos e medos que emergiam dos adolescentes, que cresciam em um meio cada vez mais adultizado. Com uma base eletrônica simples e lenta, suas músicas criam uma atmosfera etérea, perfeita para se ouvir dirigindo, triste e sozinho, pela cidade na madrugada.
+
+**Destaques**: Buzzcut Season, White Teeth Teens.
