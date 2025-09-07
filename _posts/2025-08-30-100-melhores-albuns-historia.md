@@ -48,6 +48,6 @@ A escolha de um título homônimo foi perfeita. A repetição, que muitas vezes 
 
 ### Pure Heroine, Lorde (2013) - ●●●●●●●○○○
 
-Lorde caminhou para que Billie Eilish e Olivia Rodrigo pudessem correr. Com seu primeiro álbum, a cantora neozelandesa abalou o mercado *teen pop*, dominado por produções higienizadas e excessivamente positivas. Suas letras trouxeram os questionamentos e medos que emergiam dos adolescentes, que cresciam em um meio cada vez mais adultizado. Com uma base eletrônica simples e lenta, suas músicas criam uma atmosfera etérea, perfeita para se ouvir dirigindo, triste e sozinho, pela cidade na madrugada.
+Lorde caminhou para que Billie Eilish e Olivia Rodrigo pudessem correr. Com seu primeiro álbum, a cantora neozelandesa abalou o mercado *teen pop*, dominado por produções higienizadas e excessivamente positivas. Suas letras trouxeram os questionamentos que emergiam dos adolescentes, que cresciam em um ambiente cada vez mais ansioso e incompreensível. A composição desse argumento, com uma batida eletrônica cheia de vazios, dá destaque à sua voz, criando uma atmosfera anestesiante. É excelente para ouvir dirigindo de madrugada pela cidade.
 
 **Destaques**: Buzzcut Season, White Teeth Teens.
