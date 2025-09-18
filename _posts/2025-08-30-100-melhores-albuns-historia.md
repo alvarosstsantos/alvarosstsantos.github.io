@@ -51,3 +51,12 @@ A escolha de um título homônimo foi perfeita. A repetição, que muitas vezes 
 Lorde caminhou para que Billie Eilish e Olivia Rodrigo pudessem correr. Com seu primeiro álbum, a cantora neozelandesa abalou o mercado *teen pop*, dominado por produções higienizadas e excessivamente positivas. Suas letras trouxeram os questionamentos que emergiam dos adolescentes, que cresciam em um ambiente cada vez mais ansioso e incompreensível. A composição desse argumento, com uma batida eletrônica cheia de vazios, dá destaque à sua voz, criando uma atmosfera anestesiante. É excelente para ouvir dirigindo de madrugada pela cidade.
 
 **Destaques**: Buzzcut Season, White Teeth Teens.
+
+---
+{: data-content=" 95 "}
+
+### Confessions, USHER (2004) - ●●●○○○○○○○
+
+Quando muito, nada interessante. Alguns *hits* reconhecíveis marcaram época por razões que, confesso, me escapam por completo.
+
+**Destaques**: My Boo.
